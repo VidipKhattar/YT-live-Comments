@@ -1,0 +1,54 @@
+/* styles.css */
+
+.comment {
+  margin: 30px auto;
+  background-color: #282828;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.profile-image {
+  float: left;
+  width: 30px;
+  height: 30px;
+  margin: 6px 0px 0px 6px;
+  
+}
+
+.profile-image a img{
+    border-radius: 300px;
+}
+
+.username {
+    margin: 10px 0px 0px 10px;
+    padding-left: 32px;
+}
+
+.username a{
+    font-size: 18px;
+    float: left;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.user-comment {
+  margin: 0px;
+  padding-top: 5px;
+}
+
+.date-span {
+  color: #9E9E9E;
+  font-size: 13px;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+
+.comment p {
+  color: #FFFFFF;
+  margin: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 16px;
+  padding-left: 10px;
+  padding-right: 5px;
+}
