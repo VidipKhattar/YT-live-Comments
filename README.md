@@ -1,2 +1,2 @@
 # Youtube Live Comments
- Displays Timestamped comments below video player
+Google Chrome Extension: Displays Timestamped comments below video player
